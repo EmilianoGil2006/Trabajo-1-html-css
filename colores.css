@@ -1,0 +1,48 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+
+/* PALABRAS CLAVE*/
+#aplicarcolor1{
+    background-color: red;
+
+}
+
+/*HEXADECIMAL*/
+#aplicarcolor2{
+    background-color: #0a95b8;
+
+}
+
+/* RGB*/
+#aplicarcolor3{
+    background-color: rgba(5, 252, 87, 0.731);
+
+}
+
+/* HSL*/
+#aplicarcolor4{
+    background-color: hsl(250deg, 30%, 50%);
+
+}
+
+/* LINEAR-GRADIANT*/
+#aplicarcolor5{
+    background: linear-gradient(90deg, blue, red);
+
+}
+
+/* gradient*/
+#aplicarcolor6{
+    background: radial-gradient(blue, green, red, orange);
+
+}
+
+#imagencuadro{
+    width: 100%;
+    height: 100vh;
+
+    background: url()no-repeat ;
+
+}
